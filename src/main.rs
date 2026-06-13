@@ -70,7 +70,7 @@ async fn render_cv() -> impl axum::response::IntoResponse {
         },
         Project {
             name: "ABHAYAM (Individual Project)".to_string(),
-            tech: "Flutter & Mobile UI".to_string(),
+            tech: "Jotform Apps (No-Code Development)".to_string(),
             desc: "A mobile application ecosystem designed to bridge and connect blood and organ donors seamlessly.".to_string(),
         },
         Project {
