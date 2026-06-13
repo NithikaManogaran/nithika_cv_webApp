@@ -1,4 +1,4 @@
-# My CV Web Application
+# My CV Web Application (Miss.Nithika Manogaran)
 
 This is a simple and clean CV web application built using the **Rust** programming language. I created this project to learn about backend web development with Rust and template rendering.
 
